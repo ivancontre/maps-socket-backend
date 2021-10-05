@@ -1,5 +1,8 @@
-Proyecto base para trabajar con sockets
+Aplicación backend que maneja posiciones de marcadores en mapa
 
-1. npm i
-2. crear archivo .env
-3. npm run dev
+Está creada en base:
+
+* NodeJS
+* TypeScript
+* ExpressJS
+* Socket IO
